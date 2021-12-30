@@ -7,7 +7,7 @@ This project served as a test of the basic functionality required to build a chr
 
 ## Preview
 ![](https://github.com/EhsanPatel/Simplified-New-Tab/blob/2f0fde5ab69f3e9bc9ca956bca112651b474de29/Preview%20Images/Preview_1.jpg)
-![](https://github.com/EhsanPatel/Simplified-New-Tab/blob/2f0fde5ab69f3e9bc9ca956bca112651b474de29/Preview%20Images/Preview_2.jpg)
+![](https://github.com/EhsanPatel/Simplified-New-Tab/blob/5610692b743ad0e082cf4f9d9d7fc9e6a2c6df43/Preview%20Images/Preview_2.jpg)
 
 ## Installation
 1. Download code
