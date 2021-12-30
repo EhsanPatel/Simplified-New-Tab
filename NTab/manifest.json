@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name":"NTab Redirect",
+  "description":"Custom Tab Redirect",
+  "version":"1.0",
+  "options_page":"dummy.html",
+  "chrome_url_overrides": {
+    "newtab":"dummy.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "*://*/*"
+  ],
+  "web_accessible_resources": [ "ntab/images/tab-logo.svg" ]
+}
